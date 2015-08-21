@@ -1,13 +1,13 @@
-package com.java.programs;
+package com.java.programs.main;
 
 /**
  * @author neeraj_girolkar
  * 
- * 			|  Quotient
+ * 		|  Quotient
  * ---------------------
  * Divisor	|  Dividend
  * ---------------------
- * 			|  Reminder
+ * 		|  Reminder
  * 
  * 2  |  56  |  0	^
  * ---------------	|

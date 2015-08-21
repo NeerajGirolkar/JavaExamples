@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.java.programs.DecimalToBinary;
+import com.java.programs.main.DecimalToBinary;
 
 public class DecimalToBinaryTest {
 	private DecimalToBinary decimalToBinary;
